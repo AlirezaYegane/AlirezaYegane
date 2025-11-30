@@ -1,166 +1,24 @@
-# Hi, I'm Alireza 👋
+# Hi 👋, I'm Alireza Yegane
 
-I work somewhere between machine learning and software engineering. Most of my projects are about anomaly detection on clinical-style tabular data and building small tools (planners, dashboards, automations) that I actually use in my own workflows.
+### Machine learning & software engineering practitioner
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AlirezaYegane&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🎓 B.Sc. in Computer Science, graduated with a strong focus on algorithms, data mining, and AI  
-- 💼 Data Scientist at AVITEC, working with procurement / engineering analytics and Power BI dashboards  
-- 🔬 Currently exploring ontology-aware anomaly detection and diffusion-style counterfactuals on EHR-like data  
-- 🧠 Interested in anomaly detection, clinical ML, generative modeling, and developer tooling  
-- 🌍 Based in Tehran, Iran  
-- 📄 CV: [View on Google Drive](https://drive.google.com/file/d/1P38LHDLCNS6iAMwAygm3Mgvx12dd3YA7/view?usp=sharing)  
-- 📫 Email: **alireza.yegane.cs@gmail.com**  
-- 🔗 LinkedIn: [linkedin.com/in/alireza-yegane-a6a5b6239](https://www.linkedin.com/in/alireza-yegane-a6a5b6239)
+- I'm currently working on **ontology-aware anomaly detection on clinical-style tabular data** and a **full-stack planning / productivity tool**.
+- I'm currently learning **better anomaly detection methods for tabular / EHR-like data** and **modern full-stack patterns**.
+- I'm looking to collaborate on **turning research-style ML ideas into clean, reproducible code**.
+- I'm looking for help with **clinical / EHR-style datasets, evaluation setups, and ontology-aware anomaly detection**.
+- Ask me about **anomaly detection, tabular / clinical-style ML, Python for data work, and planning / productivity tools**.
+- How to reach me: **Alireza.yegane.cs@gmail.com**
+- Fun fact: **most of my projects start as tools I needed for myself first.**
+- All of my projects: **[github.com/AlirezaYegane](https://github.com/AlirezaYegane)**
+- My resume (CV): **[Google Drive link](https://drive.google.com/file/d/1P38LHDLCNS6iAMwAygm3Mgvx12dd3YA7/view?usp=sharing)**
 
 ---
 
-## 🔬 Selected ML & research-oriented projects
-
-### Ontology-aware anomaly detection on diabetes encounters  
-`Python · scikit-learn · Autoencoders · Clinical-style ML`  
-**Repo:** [`ontology-aware-anomaly-detection-diabetes`](https://github.com/AlirezaYegane/ontology-aware-anomaly-detection-diabetes)
-
-A reasonably structured pipeline for early readmission risk on the *Diabetes 130-US hospitals* dataset:
-
-- preprocessing and feature engineering for clinical-style tabular data  
-- anomaly baselines (e.g. Isolation Forest, autoencoder-style models)  
-- an ontology-inspired rule layer to adjust scores and penalties  
-- ROC-AUC / PR-AUC evaluation in a reproducible codebase
-
-The goal is clarity and reproducibility, not “clever” one-off scripts.
-
----
-
-### Bone fracture detection (X-ray)  
-`Python · Deep Learning`  
-**Repo:** `bone-fracture-detection`
-
-An experimental CNN-based pipeline for detecting bone fractures from X-ray images:
-
-- minimal preprocessing for medical images  
-- simple CNN / transfer learning baselines  
-- basic evaluation and error analysis to understand failure modes  
-
-This is a sandbox for experimenting with medical imaging workflows.
-
----
-
-### Decision tree classifier from scratch  
-`Python · Algorithms · ML fundamentals`
-
-A from-scratch implementation of the ID3 decision tree algorithm:
-
-- full preprocessing pipeline (cleaning, normalization, feature selection)  
-- careful implementation of splitting criteria and tree construction  
-- evaluation using F1-score and other standard metrics  
-
-Useful as a reference for how I think about implementing ML algorithms beyond libraries.
-
----
-
-### DEA study: data transmission algorithms  
-`Python · Optimization · TOPSIS`
-
-A comparative study of classical vs AI-based data transmission algorithms for a DEA conference:
-
-- ranking algorithms based on accuracy and hardware/resource usage  
-- applying the TOPSIS method for multi-criteria decision making  
-- written and presented as a research-style study on constrained infrastructure
-
----
-
-## 🧰 Software & tools I build
-
-### Deep Focus Planner (full-stack planning tool)  
-`FastAPI · PostgreSQL · Next.js 14 · TypeScript · Tailwind · Docker`  
-**Repo:** `Planner`
-
-A personal planning and productivity app with:
-
-- projects, tasks, and Kanban-style boards  
-- daily / weekly planning views  
-- basic analytics over completed tasks  
-
-This project is mainly about learning to keep a clean full-stack structure (API, DB, frontend) and making something usable beyond a single notebook.
-
----
-
-### DNSFUT – DNS benchmarking utility  
-`Python`  
-**Repo:** `DNSFUT`
-
-A small DNS benchmarking tool originally built to tune DNS settings for gaming:
-
-- measures response times for a list of DNS servers  
-- returns a simple ranking (e.g. Top N choices)  
-
-It started as a practical need and evolved into a place to practice writing small, focused CLI-style tools.
-
----
-
-### File manager & problem-solving practice  
-`Java · Algorithms`  
-**Repos:** `File-Manager`, `LeetCodeProblems`
-
-- a simple Java-based file manager to practice OOP and filesystem handling  
-- a collection of algorithm / data structure exercises (LeetCode-style problems) to keep fundamentals sharp
-
----
-
-## 🛠 Tech stack
-
-**Languages**  
-Python, Java, TypeScript, SQL
-
-**ML / Data**  
-NumPy, pandas, scikit-learn, basic PyTorch / Keras, matplotlib, seaborn
-
-**Backend**  
-FastAPI, Spring Boot (earlier experience), REST APIs, SQLAlchemy
-
-**Frontend**  
-React / Next.js, Tailwind CSS
-
-**Data & BI**  
-Power BI (data modeling, DAX, dashboards), SQL
-
-**Tools**  
-Git, Docker, Jupyter, VS Code
-
----
-
-## 📚 Courses & learning
-
-Some of the material I’ve gone through:
-
-- Machine Learning Specialization – Andrew Ng (Coursera)  
-- Advanced Learning Algorithms – DeepLearning.AI  
-- Elements of AI – University of Helsinki & MinnaLearn  
-- Human Subjects Research Protection – U.S. Department of Health & Human Services  
-- Various ML / AI notebooks and side projects (see the `Coursera---Machine-Learning-Specialization` repo)
-
-I generally try to convert course content into small, runnable projects instead of leaving it as isolated notes.
-
----
-
-## 📊 GitHub stats
-
-> These cards are generated from public GitHub activity; if they fail to load, it’s usually a temporary API or rate-limit issue.
-
-![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlirezaYegane&layout=compact)
-
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AlirezaYegane&show_icons=true)
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=AlirezaYegane)
-
-
----
-
-## 📫 Connect
-
+<h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://github.com/AlirezaYegane" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
@@ -174,4 +32,52 @@ I generally try to convert course content into small, runnable projects instead 
   <a href="https://leetcode.com/alirezawwmm" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
+</p>
+
+---
+
+<h3 align="left">Highlighted repositories</h3>
+
+- **[Planner](https://github.com/AlirezaYegane/Planner)** – Deep Focus Planner, a full-stack planning / productivity app  
+  `FastAPI · PostgreSQL · Next.js 14 · TypeScript · Tailwind · Docker`
+
+- **[DNSFUT](https://github.com/AlirezaYegane/DNSFUT)** – DNS benchmarking utility originally built for tuning console DNS settings  
+  `Python · CLI · Networking`
+
+- **[bone-fracture-detection](https://github.com/AlirezaYegane/bone-fracture-detection)** – early experiments with X-ray bone fracture detection (YOLO / CNN). Still work in progress.  
+  `Python · Deep Learning · Medical imaging`
+
+- **[File-Manager](https://github.com/AlirezaYegane/File-Manager)** – a Java file manager to practice OOP and filesystem operations  
+  `Java · OOP · Desktop-style tooling`
+
+- **[LeetCodeProblems](https://github.com/AlirezaYegane/LeetCodeProblems)** – algorithm and data structure practice in Java  
+  `Java · Algorithms · Data structures`
+
+- **[Coursera---Machine-Learning-Specialization](https://github.com/AlirezaYegane/Coursera---Machine-Learning-Specialization)** – cleaned-up notebooks and code from Andrew Ng’s ML Specialization  
+  `Jupyter · Python · ML basics`
+
+---
+
+<h3 align="left">Languages and tools</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,fastapi,react,nextjs,tailwind,postgres,mysql,sqlite,linux,docker,git,pytorch,sklearn,tensorflow,opencv,anaconda" />
+</p>
+
+---
+
+## GitHub stats
+
+> These cards are generated from public GitHub activity; if they fail to load, it’s usually a temporary API or rate-limit issue.
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlirezaYegane&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlirezaYegane&show_icons=true&locale=en" alt="GitHub stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaYegane" alt="GitHub streak" />
 </p>
