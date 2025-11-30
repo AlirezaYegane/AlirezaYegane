@@ -1,130 +1,164 @@
 # Hi, I'm Alireza 👋
 
-I work somewhere between machine learning and software engineering. Most of my projects are about anomaly detection on clinical-style tabular data and building small tools (planners, dashboards, automations) that I actually use.
+I work somewhere between machine learning and software engineering. Most of my projects are about anomaly detection on clinical-style tabular data and building small tools (planners, dashboards, automations) that I actually use in my own workflows.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AlirezaYegane&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-
-I work somewhere between machine learning and software engineering.  
-Most of my recent projects are about anomaly detection on clinical-style datasets and building small tools that I can actually use: planners, dashboards, and simple automations.
-
-- Currently exploring ontology-aware anomaly detection on tabular / EHR-like data  
-- Build analytics and reporting tools using Python, SQL, and Power BI  
-- Interested in: anomaly detection, clinical ML, generative models, and developer tooling  
-- Based in Tehran  
-- LinkedIn: [linkedin.com/in/alireza-yegane-a6a5b6239](https://www.linkedin.com/in/alireza-yegane-a6a5b6239)
+- 🎓 B.Sc. in Computer Science, graduated with a strong focus on algorithms, data mining, and AI  
+- 💼 Data Scientist at AVITEC, working with procurement / engineering analytics and Power BI dashboards  
+- 🔬 Currently exploring ontology-aware anomaly detection and diffusion-style counterfactuals on EHR-like data  
+- 🧠 Interested in anomaly detection, clinical ML, generative modeling, and developer tooling  
+- 🌍 Based in Tehran, Iran  
+- 📄 CV: [View on Google Drive](https://drive.google.com/file/d/1P38LHDLCNS6iAMwAygm3Mgvx12dd3YA7/view?usp=sharing)  
+- 📫 Email: **alireza.yegane.cs@gmail.com**  
+- 🔗 LinkedIn: [linkedin.com/in/alireza-yegane-a6a5b6239](https://www.linkedin.com/in/alireza-yegane-a6a5b6239)
 
 ---
 
 ## 🔬 Selected ML & research-oriented projects
 
-### Ontology-aware anomaly detection on diabetes encounters
-`Python · scikit-learn · Autoencoders · Clinical-style ML`
+### Ontology-aware anomaly detection on diabetes encounters  
+`Python · scikit-learn · Autoencoders · Clinical-style ML`  
+**Repo:** [`ontology-aware-anomaly-detection-diabetes`](https://github.com/AlirezaYegane/ontology-aware-anomaly-detection-diabetes)
 
-A small but reasonably structured pipeline for early readmission risk on the *Diabetes 130-US hospitals* dataset.  
-The focus is on:
+A reasonably structured pipeline for early readmission risk on the *Diabetes 130-US hospitals* dataset:
 
-- treating early readmissions as rare / high-risk events  
-- comparing classic anomaly detection (e.g. Isolation Forest) with representation-learning approaches  
-- preparing the ground for ontology-aware scoring and explainability later on
+- preprocessing and feature engineering for clinical-style tabular data  
+- anomaly baselines (e.g. Isolation Forest, autoencoder-style models)  
+- an ontology-inspired rule layer to adjust scores and penalties  
+- ROC-AUC / PR-AUC evaluation in a reproducible codebase
 
-The repository is written to be readable and reproducible rather than "clever".
-
----
-
-### Bone fracture detection (X-ray)
-`Python · Deep Learning`
-
-An experimental CNN-based pipeline for detecting bone fractures from X-ray images.  
-The goal here is to practice end-to-end modeling:
-
-- minimal preprocessing  
-- a simple CNN / transfer learning baseline  
-- basic evaluation and error analysis
-
-It is not a production model, but a place to experiment with medical imaging workflows.
+The goal is clarity and reproducibility, not “clever” one-off scripts.
 
 ---
 
-## 🧠 Software & tools I build
+### Bone fracture detection (X-ray)  
+`Python · Deep Learning`  
+**Repo:** `bone-fracture-detection`
 
-### Deep Focus Planner (full-stack planning tool)
-`FastAPI · PostgreSQL · Next.js 14 · TypeScript · Tailwind · Docker`
+An experimental CNN-based pipeline for detecting bone fractures from X-ray images:
+
+- minimal preprocessing for medical images  
+- simple CNN / transfer learning baselines  
+- basic evaluation and error analysis to understand failure modes  
+
+This is a sandbox for experimenting with medical imaging workflows.
+
+---
+
+### Decision tree classifier from scratch  
+`Python · Algorithms · ML fundamentals`
+
+A from-scratch implementation of the ID3 decision tree algorithm:
+
+- full preprocessing pipeline (cleaning, normalization, feature selection)  
+- careful implementation of splitting criteria and tree construction  
+- evaluation using F1-score and other standard metrics  
+
+Useful as a reference for how I think about implementing ML algorithms beyond libraries.
+
+---
+
+### DEA study: data transmission algorithms  
+`Python · Optimization · TOPSIS`
+
+A comparative study of classical vs AI-based data transmission algorithms for a DEA conference:
+
+- ranking algorithms based on accuracy and hardware/resource usage  
+- applying the TOPSIS method for multi-criteria decision making  
+- written and presented as a research-style study on constrained infrastructure
+
+---
+
+## 🧰 Software & tools I build
+
+### Deep Focus Planner (full-stack planning tool)  
+`FastAPI · PostgreSQL · Next.js 14 · TypeScript · Tailwind · Docker`  
+**Repo:** `Planner`
 
 A personal planning and productivity app with:
 
 - projects, tasks, and Kanban-style boards  
 - daily / weekly planning views  
-- some basic analytics over completed tasks  
+- basic analytics over completed tasks  
 
-This project is mainly about keeping a clean full-stack structure (API, database, frontend) and learning how to make something that is usable beyond a single script.
+This project is mainly about learning to keep a clean full-stack structure (API, DB, frontend) and making something usable beyond a single notebook.
 
 ---
 
-### DNSFUT – DNS benchmarking utility
-`Python`
+### DNSFUT – DNS benchmarking utility  
+`Python`  
+**Repo:** `DNSFUT`
 
-A small DNS benchmarking tool originally built to tune DNS settings for a gaming console.  
-It:
+A small DNS benchmarking tool originally built to tune DNS settings for gaming:
 
 - measures response times for a list of DNS servers  
 - returns a simple ranking (e.g. Top N choices)  
 
-It started as a practical need, then turned into a place to practice writing small, focused CLI-style tools.
+It started as a practical need and evolved into a place to practice writing small, focused CLI-style tools.
 
 ---
 
-### File manager & problem-solving practice
-`Java · Algorithms`
+### File manager & problem-solving practice  
+`Java · Algorithms`  
+**Repos:** `File-Manager`, `LeetCodeProblems`
 
-- A simple Java-based file manager to practice OOP and working with the filesystem  
-- A collection of algorithm / data structure exercises (e.g. LeetCode-style problems) to keep fundamentals fresh
+- a simple Java-based file manager to practice OOP and filesystem handling  
+- a collection of algorithm / data structure exercises (LeetCode-style problems) to keep fundamentals sharp
 
 ---
 
 ## 🛠 Tech stack
 
 **Languages**  
-Python, TypeScript, Java, SQL
+Python, Java, TypeScript, SQL
 
 **ML / Data**  
-scikit-learn, basic PyTorch / Keras when needed, Pandas, NumPy
+NumPy, pandas, scikit-learn, basic PyTorch / Keras, matplotlib, seaborn
 
 **Backend**  
-FastAPI, REST APIs, SQLAlchemy
+FastAPI, Spring Boot (earlier experience), REST APIs, SQLAlchemy
 
 **Frontend**  
 React / Next.js, Tailwind CSS
 
 **Data & BI**  
-Power BI, SQL
+Power BI (data modeling, DAX, dashboards), SQL
 
 **Tools**  
-Git, Docker, VS Code
+Git, Docker, Jupyter, VS Code
 
 ---
 
-## 📈 Courses & learning
+## 📚 Courses & learning
 
 Some of the material I’ve gone through:
 
-- Machine Learning Specialization – Coursera (Andrew Ng)  
-- Other ML / AI courses and self-study notebooks (see the `Coursera---Machine-Learning-Specialization` repo)
+- Machine Learning Specialization – Andrew Ng (Coursera)  
+- Advanced Learning Algorithms – DeepLearning.AI  
+- Elements of AI – University of Helsinki & MinnaLearn  
+- Human Subjects Research Protection – U.S. Department of Health & Human Services  
+- Various ML / AI notebooks and side projects (see the `Coursera---Machine-Learning-Specialization` repo)
 
-I usually try to turn course content into small, runnable projects instead of leaving it as isolated notebooks.
+I generally try to convert course content into small, runnable projects instead of leaving it as isolated notes.
 
 ---
 
-## 🧩 What I'm working on now
+## 📊 GitHub stats
 
-- Turning clinical ML research ideas into clean, reproducible code  
-- Improving anomaly detection and explainability for EHR-like data  
-- Hardening the Planner codebase (tests, better structure, and more reliable deployments)
+> These cards are generated from public GitHub activity; if they fail to load, it’s usually a temporary API or rate-limit issue.
 
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaYegane&layout=compact)
 
-## Connect with me
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaYegane&show_icons=true)
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=AlirezaYegane)
+
+---
+
+## 📫 Connect
 
 <p align="left">
   <a href="https://github.com/AlirezaYegane" target="_blank">
@@ -140,20 +174,3 @@ I usually try to turn course content into small, runnable projects instead of le
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
-
----
-
-## Languages & tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,sqlite,postgres,linux,docker,git,fastapi,react,nextjs,tailwind,streamlit,tensorflow,pytorch,sklearn,opencv,anaconda" />
-</p>
-
----
-## 📊 GitHub stats
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaYegane&layout=compact)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaYegane&show_icons=true)
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=AlirezaYegane)
