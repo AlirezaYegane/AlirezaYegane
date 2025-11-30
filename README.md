@@ -150,17 +150,10 @@ I usually try to turn course content into small, runnable projects instead of le
 </p>
 
 ---
+## 📊 GitHub stats
 
-## GitHub stats
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaYegane&layout=compact)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlirezaYegane&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaYegane&show_icons=true)
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlirezaYegane&show_icons=true&locale=en" alt="GitHub stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaYegane" alt="GitHub streak" />
-</p>
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=AlirezaYegane)
