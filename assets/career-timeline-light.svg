@@ -4,19 +4,19 @@
   <text x="48" y="39" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" fill="#52677E">git log --career --signal-only</text>
   <path d="M112 64V342" stroke="#C7D4E3" stroke-width="4" stroke-linecap="round"/>
   <circle cx="112" cy="82" r="10" fill="#6D28D9"/><circle cx="112" cy="82" r="19" fill="none" stroke="#6D28D9" opacity=".28"/>
-  <text x="152" y="68" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700" fill="#6D28D9">2026 — NOW</text>
+  <text x="152" y="68" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700" fill="#6D28D9">MAR 2026 — NOW</text>
   <text x="152" y="94" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="20" font-weight="800" fill="#132238">Research Assistant</text>
   <text x="540" y="94" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="17" font-weight="650" fill="#132238">Macquarie University</text>
   <text x="820" y="94" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#52677E">RNA foundation models · reproducible ML</text><circle cx="112" cy="162" r="10" fill="#007FA3"/><circle cx="112" cy="162" r="19" fill="none" stroke="#007FA3" opacity=".28"/>
-  <text x="152" y="148" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700" fill="#007FA3">2026 — NOW</text>
+  <text x="152" y="148" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700" fill="#007FA3">JUN 2026 — NOW</text>
   <text x="152" y="174" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="20" font-weight="800" fill="#132238">Technical Contractor</text>
   <text x="540" y="174" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="17" font-weight="650" fill="#132238">Agile HR Analytics</text>
   <text x="820" y="174" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#52677E">testing · analytics · Azure delivery</text><circle cx="112" cy="242" r="10" fill="#087F5B"/><circle cx="112" cy="242" r="19" fill="none" stroke="#087F5B" opacity=".28"/>
-  <text x="152" y="228" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700" fill="#087F5B">2024 — 2026</text>
+  <text x="152" y="228" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700" fill="#087F5B">MAR 2024 — JAN 2026</text>
   <text x="152" y="254" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="20" font-weight="800" fill="#132238">Data Scientist</text>
   <text x="540" y="254" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="17" font-weight="650" fill="#132238">AVITEC</text>
   <text x="820" y="254" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#52677E">Python ETL · Power BI · operational analytics</text><circle cx="112" cy="322" r="10" fill="#A15C00"/><circle cx="112" cy="322" r="19" fill="none" stroke="#A15C00" opacity=".28"/>
-  <text x="152" y="308" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700" fill="#A15C00">2023 — 2024</text>
+  <text x="152" y="308" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700" fill="#A15C00">MAY 2023 — FEB 2024</text>
   <text x="152" y="334" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="20" font-weight="800" fill="#132238">Backend Developer</text>
   <text x="540" y="334" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="17" font-weight="650" fill="#132238">Caspco</text>
   <text x="820" y="334" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#52677E">Java services · enterprise workflows</text>

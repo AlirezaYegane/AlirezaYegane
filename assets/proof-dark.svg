@@ -3,7 +3,7 @@
   <rect width="1200" height="260" rx="24" fill="#07111F" stroke="#28445E" stroke-width="2"/>
   <text x="38" y="39" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" font-weight="700" fill="#43D9AD">PROOF / NOT PROMISES</text>
   <rect x="38" y="65" width="210" height="155" rx="18" fill="#102438" stroke="#28445E"/>
-  <text x="56" y="116" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="31" font-weight="850" fill="#A78BFA">45</text>
+  <text x="56" y="116" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="31" font-weight="850" fill="#A78BFA">≈45</text>
   <text x="56" y="153" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="15" font-weight="700" fill="#F5F7FA">RNA foundation models</text>
   <text x="56" y="183" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" fill="#9EB2C7">reviewed and compared</text>
   <path d="M56 201H230" stroke="#A78BFA" stroke-width="3" stroke-linecap="round" opacity=".65"/><rect x="266" y="65" width="210" height="155" rx="18" fill="#102438" stroke="#28445E"/>

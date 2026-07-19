@@ -2,13 +2,25 @@
   "name": "Alireza Yegane",
   "headline": "AI/ML Researcher · Data Scientist · Research Software Builder",
   "supporting_statement": "Building and evaluating reliable AI and data systems — from research experiments to usable software.",
-  "location": "Sydney, Australia",
+  "location": "Sydney, NSW, Australia",
   "role": "Research Assistant · Macquarie University",
   "current_focus": [
-    {"label": "RESEARCHING", "value": "RNA foundation models and biomedical AI"},
-    {"label": "BUILDING", "value": "Pilot — local-first reliability tooling (pre-alpha)"},
-    {"label": "EVALUATING", "value": "Ontology-calibrated EHR anomaly detection"},
-    {"label": "TEACHING", "value": "Advanced Machine Learning and Cryptography"}
+    {
+      "label": "RESEARCHING",
+      "value": "RNA foundation models and biomedical AI"
+    },
+    {
+      "label": "BUILDING",
+      "value": "Pilot — local-first reliability tooling (pre-alpha)"
+    },
+    {
+      "label": "EVALUATING",
+      "value": "Ontology-calibrated EHR anomaly detection"
+    },
+    {
+      "label": "TEACHING",
+      "value": "Advanced Machine Learning and Cryptography"
+    }
   ],
   "principles": [
     "Measure before claiming",
@@ -18,11 +30,31 @@
     "Document the path, not only the outcome"
   ],
   "verified_metrics": [
-    {"value": "45", "label": "RNA foundation models", "sub": "reviewed and compared"},
-    {"value": "0.7881", "label": "ROC-AUC", "sub": "ontology-centred EHR scorer"},
-    {"value": "299", "label": "passing tests", "sub": "EHR research project"},
-    {"value": "1,656", "label": "browser UI calls", "sub": "performance-test programme"},
-    {"value": "99.28%", "label": "aggregate pass rate", "sub": "public-safe test summary"}
+    {
+      "value": "≈45",
+      "label": "RNA foundation models",
+      "sub": "reviewed and compared"
+    },
+    {
+      "value": "0.7881",
+      "label": "ROC-AUC",
+      "sub": "ontology-centred EHR scorer"
+    },
+    {
+      "value": "299",
+      "label": "passing tests",
+      "sub": "EHR research project"
+    },
+    {
+      "value": "1,656",
+      "label": "browser UI calls",
+      "sub": "performance-test programme"
+    },
+    {
+      "value": "99.28%",
+      "label": "aggregate pass rate",
+      "sub": "public-safe test summary"
+    }
   ],
   "projects": [
     {
@@ -81,10 +113,30 @@
     }
   ],
   "experience": [
-    {"dates": "2026 — NOW", "role": "Research Assistant", "org": "Macquarie University", "signal": "RNA foundation models · reproducible ML"},
-    {"dates": "2026 — NOW", "role": "Technical Contractor", "org": "Agile HR Analytics", "signal": "testing · analytics · Azure delivery"},
-    {"dates": "2024 — 2026", "role": "Data Scientist", "org": "AVITEC", "signal": "Python ETL · Power BI · operational analytics"},
-    {"dates": "2023 — 2024", "role": "Backend Developer", "org": "Caspco", "signal": "Java services · enterprise workflows"}
+    {
+      "dates": "MAR 2026 — NOW",
+      "role": "Research Assistant",
+      "org": "Macquarie University",
+      "signal": "RNA foundation models · reproducible ML"
+    },
+    {
+      "dates": "JUN 2026 — NOW",
+      "role": "Technical Contractor",
+      "org": "Agile HR Analytics",
+      "signal": "testing · analytics · Azure delivery"
+    },
+    {
+      "dates": "MAR 2024 — JAN 2026",
+      "role": "Data Scientist",
+      "org": "AVITEC",
+      "signal": "Python ETL · Power BI · operational analytics"
+    },
+    {
+      "dates": "MAY 2023 — FEB 2024",
+      "role": "Backend Developer",
+      "org": "Caspco",
+      "signal": "Java services · enterprise workflows"
+    }
   ],
   "last_manual_review": "2026-07-19",
   "status_note": "All public claims and status labels require manual evidence review before publication."

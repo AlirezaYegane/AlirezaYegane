@@ -6,15 +6,17 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=3000&amp;pause=900&amp;color=43D9AD&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=900&amp;height=42&amp;lines=research_question+%E2%86%92+reproducible_experiment+%E2%86%92+tested_system;biomedical+AI+%C2%B7+graph+ML+%C2%B7+research+software;measure+before+claiming">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=3000&amp;pause=900&amp;color=6D28D9&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=900&amp;height=42&amp;lines=research_question+%E2%86%92+reproducible_experiment+%E2%86%92+tested_system;biomedical+AI+%C2%B7+graph+ML+%C2%B7+research+software;measure+before+claiming">
-    <img alt="Research question to reproducible experiment to tested system" src="assets/typing-fallback-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/typing-fallback-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/typing-fallback-light.svg">
+    <img alt="Research question to reproducible experiment to tested system"
+         src="assets/typing-fallback-light.svg"
+         width="100%">
   </picture>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alireza-yegane"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
-  <a href="mailto:alireza.yegane@mq.edu.au"><img alt="Email Alireza" src="https://img.shields.io/badge/Macquarie-email-A6192E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
+  <a href="mailto:alireza.yegane@mq.edu.au"><img alt="Email Alireza" src="https://img.shields.io/badge/Macquarie-email-A6192E?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white"></a>
   <img alt="Sydney, Australia" src="https://img.shields.io/badge/Sydney-Australia-35D7FF?style=for-the-badge">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=AlirezaYegane&amp;label=PROFILE+SIGNALS&amp;color=6D28D9&amp;style=for-the-badge">
 </p>
@@ -123,7 +125,7 @@ Each card starts with the question, not the stack. Open a repository for the cod
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/proof-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/proof-light.svg">
-  <img alt="Verified metrics: 45 RNA foundation models reviewed, EHR ROC-AUC 0.7881, 299 passing tests, 1,656 browser UI calls, and 99.28 percent aggregate pass rate" src="assets/proof-light.svg" width="100%">
+  <img alt="Verified metrics: approximately 45 RNA foundation models reviewed, EHR ROC-AUC 0.7881, 299 passing tests, 1,656 browser UI calls, and 99.28 percent aggregate pass rate" src="assets/proof-light.svg" width="100%">
 </picture>
 
 <a id="research-route"></a>
