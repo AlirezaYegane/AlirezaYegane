@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence-to-output signal path</title><desc id="desc">A five-stage workflow moving from research question to evidence, reproducible experiment, failure analysis, and tested usable output.</desc>
+  <rect width="1200" height="270" rx="24" fill="#07111F" stroke="#28445E" stroke-width="2"/>
+  <text x="60" y="40" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" fill="#9EB2C7">SIGNAL PATH / HOW THE WORK MOVES</text>
+  <rect x="60" y="75" width="178" height="120" rx="18" fill="#0D1B2A" stroke="#A78BFA" stroke-width="2"/>
+  <text x="149" y="123" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" font-weight="800" fill="#A78BFA">QUESTION</text>
+  <text x="149" y="157" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" fill="#9EB2C7">define the claim</text><rect x="275" y="75" width="178" height="120" rx="18" fill="#0D1B2A" stroke="#35D7FF" stroke-width="2"/>
+  <text x="364" y="123" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" font-weight="800" fill="#35D7FF">EVIDENCE</text>
+  <text x="364" y="157" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" fill="#9EB2C7">data + assumptions</text><rect x="490" y="75" width="178" height="120" rx="18" fill="#0D1B2A" stroke="#43D9AD" stroke-width="2"/>
+  <text x="579" y="123" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" font-weight="800" fill="#43D9AD">EXPERIMENT</text>
+  <text x="579" y="157" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" fill="#9EB2C7">reproducible run</text><rect x="705" y="75" width="178" height="120" rx="18" fill="#0D1B2A" stroke="#F6C85F" stroke-width="2"/>
+  <text x="794" y="123" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" font-weight="800" fill="#F6C85F">FAILURE</text>
+  <text x="794" y="157" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" fill="#9EB2C7">analyse what broke</text><rect x="920" y="75" width="178" height="120" rx="18" fill="#0D1B2A" stroke="#FB7185" stroke-width="2"/>
+  <text x="1009" y="123" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" font-weight="800" fill="#FB7185">OUTPUT</text>
+  <text x="1009" y="157" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" fill="#9EB2C7">tested + usable</text><path d="M238 135h29" stroke="#28445E" stroke-width="3"/><path d="M260 128l8 7-8 7" fill="none" stroke="#28445E" stroke-width="3"/><path d="M453 135h29" stroke="#28445E" stroke-width="3"/><path d="M475 128l8 7-8 7" fill="none" stroke="#28445E" stroke-width="3"/><path d="M668 135h29" stroke="#28445E" stroke-width="3"/><path d="M690 128l8 7-8 7" fill="none" stroke="#28445E" stroke-width="3"/><path d="M883 135h29" stroke="#28445E" stroke-width="3"/><path d="M905 128l8 7-8 7" fill="none" stroke="#28445E" stroke-width="3"/>
+  <text x="600" y="235" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#9EB2C7">negative results are routed back into the next experiment</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+  <title id="title">Current research and engineering signals</title>
+  <desc id="desc">A mission-status panel listing current research, software building, evaluation, and teaching activities.</desc>
+  <defs><linearGradient id="focusbg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F4F7FC"/></linearGradient></defs>
+  <rect width="1200" height="370" rx="24" fill="url(#focusbg)" stroke="#C7D4E3" stroke-width="2"/>
+  <text x="46" y="35" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" fill="#52677E">/now · signal buffer · manually verified 2026-07-19</text>
+  <rect x="46" y="55" width="1108" height="54" rx="12" fill="#EAF0F8" stroke="#C7D4E3"/>
+  <rect x="46" y="55" width="8" height="54" rx="4" fill="#6D28D9"/>
+  <text x="78" y="88" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" font-weight="700" fill="#6D28D9">RESEARCHING</text>
+  <text x="260" y="88" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="18" font-weight="600" fill="#132238">RNA foundation models and biomedical AI</text><rect x="46" y="121" width="1108" height="54" rx="12" fill="#EAF0F8" stroke="#C7D4E3"/>
+  <rect x="46" y="121" width="8" height="54" rx="4" fill="#007FA3"/>
+  <text x="78" y="154" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" font-weight="700" fill="#007FA3">BUILDING</text>
+  <text x="260" y="154" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="18" font-weight="600" fill="#132238">Pilot — local-first reliability tooling (pre-alpha)</text><rect x="46" y="187" width="1108" height="54" rx="12" fill="#EAF0F8" stroke="#C7D4E3"/>
+  <rect x="46" y="187" width="8" height="54" rx="4" fill="#087F5B"/>
+  <text x="78" y="220" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" font-weight="700" fill="#087F5B">EVALUATING</text>
+  <text x="260" y="220" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="18" font-weight="600" fill="#132238">Ontology-calibrated EHR anomaly detection</text><rect x="46" y="253" width="1108" height="54" rx="12" fill="#EAF0F8" stroke="#C7D4E3"/>
+  <rect x="46" y="253" width="8" height="54" rx="4" fill="#A15C00"/>
+  <text x="78" y="286" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" font-weight="700" fill="#A15C00">TEACHING</text>
+  <text x="260" y="286" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="18" font-weight="600" fill="#132238">Advanced Machine Learning and Cryptography</text>
+  <text x="46" y="347" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#52677E">status: active work, not a production-readiness claim</text>
+</svg>

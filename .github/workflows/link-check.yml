@@ -1,0 +1,32 @@
+name: Check profile links
+
+on:
+  pull_request:
+    paths:
+      - "README.md"
+      - "assets/**"
+      - "scripts/check_links.py"
+      - ".github/workflows/link-check.yml"
+  schedule:
+    - cron: "17 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-link-check-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6.0.2
+      - name: Set up Python
+        uses: actions/setup-python@v6.2.0
+        with:
+          python-version: "3.13"
+      - name: Validate README links and local assets
+        run: python scripts/check_links.py

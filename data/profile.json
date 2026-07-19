@@ -1,0 +1,91 @@
+{
+  "name": "Alireza Yegane",
+  "headline": "AI/ML Researcher · Data Scientist · Research Software Builder",
+  "supporting_statement": "Building and evaluating reliable AI and data systems — from research experiments to usable software.",
+  "location": "Sydney, Australia",
+  "role": "Research Assistant · Macquarie University",
+  "current_focus": [
+    {"label": "RESEARCHING", "value": "RNA foundation models and biomedical AI"},
+    {"label": "BUILDING", "value": "Pilot — local-first reliability tooling (pre-alpha)"},
+    {"label": "EVALUATING", "value": "Ontology-calibrated EHR anomaly detection"},
+    {"label": "TEACHING", "value": "Advanced Machine Learning and Cryptography"}
+  ],
+  "principles": [
+    "Measure before claiming",
+    "Make experiments reproducible",
+    "Treat negative results as evidence",
+    "Build tools that survive real use",
+    "Document the path, not only the outcome"
+  ],
+  "verified_metrics": [
+    {"value": "45", "label": "RNA foundation models", "sub": "reviewed and compared"},
+    {"value": "0.7881", "label": "ROC-AUC", "sub": "ontology-centred EHR scorer"},
+    {"value": "299", "label": "passing tests", "sub": "EHR research project"},
+    {"value": "1,656", "label": "browser UI calls", "sub": "performance-test programme"},
+    {"value": "99.28%", "label": "aggregate pass rate", "sub": "public-safe test summary"}
+  ],
+  "projects": [
+    {
+      "slug": "ehr",
+      "name": "Ontology-Calibrated EHR Counterfactuals",
+      "eyebrow": "BIOMEDICAL AI · ACTIVE RESEARCH",
+      "question": "Can clinical knowledge improve anomaly scoring without leakage?",
+      "metric": "ROC-AUC 0.7881 · 299 tests",
+      "status": "Phases 0–7 complete",
+      "accent": "#43D9AD"
+    },
+    {
+      "slug": "pilot",
+      "name": "Pilot",
+      "eyebrow": "DEVELOPER TOOLING · PRE-ALPHA",
+      "question": "Can a coding-agent session detect its own degradation early?",
+      "metric": "8 signals · replay regression",
+      "status": "Final hardening",
+      "accent": "#A78BFA"
+    },
+    {
+      "slug": "dax",
+      "name": "Power BI DAX Assistant",
+      "eyebrow": "AI ANALYTICS · POLISHED DELIVERY",
+      "question": "Can generated DAX be grounded, validated and governed?",
+      "metric": "100+ tests · fail-closed gate",
+      "status": "Completed assessment",
+      "accent": "#F2C94C"
+    },
+    {
+      "slug": "gnn",
+      "name": "TempEdge-ResGNN",
+      "eyebrow": "GRAPH ML · COURSEWORK",
+      "question": "What survives temporal distribution shift on a transaction graph?",
+      "metric": "ROC-AUC 0.8922 ± 0.0069",
+      "status": "Completed assessment",
+      "accent": "#60A5FA"
+    },
+    {
+      "slug": "constructflow",
+      "name": "ConstructFlow",
+      "eyebrow": "AGENTIC WORKFLOW · MVP",
+      "question": "How do AI suggestions stay governed inside an approval process?",
+      "metric": "Human-in-the-loop · full audit trail",
+      "status": "Working local demo",
+      "accent": "#FB7185"
+    },
+    {
+      "slug": "ddim",
+      "name": "DDIM + Classifier-Free Guidance",
+      "eyebrow": "GENERATIVE ML · COURSEWORK",
+      "question": "Can a conditional diffusion pipeline be rebuilt from first principles?",
+      "metric": "FID 13.72 · IS 9.64 ± 0.30",
+      "status": "Completed assessment",
+      "accent": "#22D3EE"
+    }
+  ],
+  "experience": [
+    {"dates": "2026 — NOW", "role": "Research Assistant", "org": "Macquarie University", "signal": "RNA foundation models · reproducible ML"},
+    {"dates": "2026 — NOW", "role": "Technical Contractor", "org": "Agile HR Analytics", "signal": "testing · analytics · Azure delivery"},
+    {"dates": "2024 — 2026", "role": "Data Scientist", "org": "AVITEC", "signal": "Python ETL · Power BI · operational analytics"},
+    {"dates": "2023 — 2024", "role": "Backend Developer", "org": "Caspco", "signal": "Java services · enterprise workflows"}
+  ],
+  "last_manual_review": "2026-07-19",
+  "status_note": "All public claims and status labels require manual evidence review before publication."
+}

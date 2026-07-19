@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="270" viewBox="0 0 560 270" role="img" aria-labelledby="title desc">
+  <title id="title">Ontology-Calibrated EHR Counterfactuals</title><desc id="desc">Project card: Can clinical knowledge improve anomaly scoring without leakage?. ROC-AUC 0.7881 · 299 tests. Status: Phases 0–7 complete.</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08111F"/><stop offset="1" stop-color="#142A41"/></linearGradient><radialGradient id="a"><stop stop-color="#43D9AD" stop-opacity=".25"/><stop offset="1" stop-color="#43D9AD" stop-opacity="0"/></radialGradient></defs>
+  <rect x="3" y="3" width="554" height="264" rx="22" fill="url(#g)" stroke="#2D455C" stroke-width="2"/>
+  <circle cx="492" cy="66" r="92" fill="url(#a)"/>
+  <rect x="24" y="22" width="8" height="31" rx="4" fill="#43D9AD"/>
+  <text x="46" y="43" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" font-weight="700" fill="#43D9AD">BIOMEDICAL AI · ACTIVE RESEARCH</text>
+  <text x="24" y="82" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="23" font-weight="800" fill="#F7FAFC">Ontology-Calibrated EHR</text><text x="24" y="111" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="23" font-weight="800" fill="#F7FAFC">Counterfactuals</text>
+  <text x="24" y="145" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" fill="#B7C9D9">Can clinical knowledge improve anomaly scoring without</text><text x="24" y="167" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" fill="#B7C9D9">leakage?</text>
+  <rect x="24" y="183" width="350" height="38" rx="12" fill="#43D9AD" opacity=".12" stroke="#43D9AD" stroke-opacity=".55"/>
+  <text x="42" y="207" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" font-weight="700" fill="#43D9AD">ROC-AUC 0.7881 · 299 tests</text>
+  <text x="24" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#7F95AA">STATUS / PHASES 0–7 COMPLETE</text>
+  <g transform="translate(426 30)" stroke="#43D9AD" fill="none" stroke-width="3"><circle cx="52" cy="52" r="42" opacity=".35"/><path d="M52 27v50M27 52h50"/><circle cx="19" cy="19" r="6" fill="#43D9AD"/><circle cx="87" cy="19" r="6" fill="#43D9AD"/><circle cx="87" cy="87" r="6" fill="#43D9AD"/><path d="M24 24l22 22M82 24L60 46M82 82L60 60" opacity=".7"/></g>
+</svg>

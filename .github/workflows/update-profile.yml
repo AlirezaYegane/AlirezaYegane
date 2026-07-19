@@ -1,0 +1,37 @@
+name: Validate generated profile assets
+
+on:
+  pull_request:
+    paths:
+      - "data/profile.json"
+      - "scripts/generate_visuals.py"
+      - "scripts/update_profile_data.py"
+      - "assets/**"
+      - "profile-3d-contrib/**"
+      - ".github/workflows/update-profile.yml"
+  push:
+    branches: [main]
+    paths:
+      - "data/profile.json"
+      - "scripts/generate_visuals.py"
+      - "scripts/update_profile_data.py"
+      - "assets/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  generated-assets:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6.0.2
+      - name: Set up Python
+        uses: actions/setup-python@v6.2.0
+        with:
+          python-version: "3.13"
+      - name: Regenerate original local visual assets
+        run: python scripts/generate_visuals.py
+      - name: Confirm generated files are committed
+        run: git diff --exit-code -- assets/ profile-3d-contrib/

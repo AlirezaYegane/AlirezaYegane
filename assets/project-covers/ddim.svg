@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="270" viewBox="0 0 560 270" role="img" aria-labelledby="title desc">
+  <title id="title">DDIM + Classifier-Free Guidance</title><desc id="desc">Project card: Can a conditional diffusion pipeline be rebuilt from first principles?. FID 13.72 · IS 9.64 ± 0.30. Status: Completed assessment.</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08111F"/><stop offset="1" stop-color="#142A41"/></linearGradient><radialGradient id="a"><stop stop-color="#22D3EE" stop-opacity=".25"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient></defs>
+  <rect x="3" y="3" width="554" height="264" rx="22" fill="url(#g)" stroke="#2D455C" stroke-width="2"/>
+  <circle cx="492" cy="66" r="92" fill="url(#a)"/>
+  <rect x="24" y="22" width="8" height="31" rx="4" fill="#22D3EE"/>
+  <text x="46" y="43" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" font-weight="700" fill="#22D3EE">GENERATIVE ML · COURSEWORK</text>
+  <text x="24" y="82" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="23" font-weight="800" fill="#F7FAFC">DDIM + Classifier-Free Guidance</text>
+  <text x="24" y="128" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" fill="#B7C9D9">Can a conditional diffusion pipeline be rebuilt from first</text><text x="24" y="150" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" fill="#B7C9D9">principles?</text>
+  <rect x="24" y="183" width="350" height="38" rx="12" fill="#22D3EE" opacity=".12" stroke="#22D3EE" stroke-opacity=".55"/>
+  <text x="42" y="207" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" font-weight="700" fill="#22D3EE">FID 13.72 · IS 9.64 ± 0.30</text>
+  <text x="24" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#7F95AA">STATUS / COMPLETED ASSESSMENT</text>
+  <g transform="translate(420 26)" fill="none" stroke="#22D3EE" stroke-width="3"><circle cx="55" cy="55" r="47" opacity=".22"/><circle cx="55" cy="55" r="33" opacity=".38"/><circle cx="55" cy="55" r="18" opacity=".7"/><path d="M14 37c20-24 60-30 86 0M10 73c30 21 65 20 93-2"/><circle cx="55" cy="55" r="5" fill="#22D3EE"/></g>
+</svg>

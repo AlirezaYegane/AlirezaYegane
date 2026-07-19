@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Proof, not promises</title><desc id="desc">Five verified research and engineering metrics with their context.</desc>
+  <rect width="1200" height="260" rx="24" fill="#07111F" stroke="#28445E" stroke-width="2"/>
+  <text x="38" y="39" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" font-weight="700" fill="#43D9AD">PROOF / NOT PROMISES</text>
+  <rect x="38" y="65" width="210" height="155" rx="18" fill="#102438" stroke="#28445E"/>
+  <text x="56" y="116" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="31" font-weight="850" fill="#A78BFA">45</text>
+  <text x="56" y="153" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="15" font-weight="700" fill="#F5F7FA">RNA foundation models</text>
+  <text x="56" y="183" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" fill="#9EB2C7">reviewed and compared</text>
+  <path d="M56 201H230" stroke="#A78BFA" stroke-width="3" stroke-linecap="round" opacity=".65"/><rect x="266" y="65" width="210" height="155" rx="18" fill="#102438" stroke="#28445E"/>
+  <text x="284" y="116" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="31" font-weight="850" fill="#35D7FF">0.7881</text>
+  <text x="284" y="153" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="15" font-weight="700" fill="#F5F7FA">ROC-AUC</text>
+  <text x="284" y="183" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" fill="#9EB2C7">ontology-centred EHR scorer</text>
+  <path d="M284 201H458" stroke="#35D7FF" stroke-width="3" stroke-linecap="round" opacity=".65"/><rect x="494" y="65" width="210" height="155" rx="18" fill="#102438" stroke="#28445E"/>
+  <text x="512" y="116" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="31" font-weight="850" fill="#43D9AD">299</text>
+  <text x="512" y="153" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="15" font-weight="700" fill="#F5F7FA">passing tests</text>
+  <text x="512" y="183" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" fill="#9EB2C7">EHR research project</text>
+  <path d="M512 201H686" stroke="#43D9AD" stroke-width="3" stroke-linecap="round" opacity=".65"/><rect x="722" y="65" width="210" height="155" rx="18" fill="#102438" stroke="#28445E"/>
+  <text x="740" y="116" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="31" font-weight="850" fill="#F6C85F">1,656</text>
+  <text x="740" y="153" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="15" font-weight="700" fill="#F5F7FA">browser UI calls</text>
+  <text x="740" y="183" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" fill="#9EB2C7">performance-test programme</text>
+  <path d="M740 201H914" stroke="#F6C85F" stroke-width="3" stroke-linecap="round" opacity=".65"/><rect x="950" y="65" width="210" height="155" rx="18" fill="#102438" stroke="#28445E"/>
+  <text x="968" y="116" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="31" font-weight="850" fill="#FB7185">99.28%</text>
+  <text x="968" y="153" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="15" font-weight="700" fill="#F5F7FA">aggregate pass rate</text>
+  <text x="968" y="183" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" fill="#9EB2C7">public-safe test summary</text>
+  <path d="M968 201H1142" stroke="#FB7185" stroke-width="3" stroke-linecap="round" opacity=".65"/>
+</svg>

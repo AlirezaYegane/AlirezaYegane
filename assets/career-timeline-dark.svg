@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Career signal timeline</title><desc id="desc">Timeline of research assistant, technical contractor, data scientist, and backend developer experience.</desc>
+  <rect width="1200" height="390" rx="24" fill="#07111F" stroke="#28445E" stroke-width="2"/>
+  <text x="48" y="39" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" fill="#9EB2C7">git log --career --signal-only</text>
+  <path d="M112 64V342" stroke="#28445E" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="112" cy="82" r="10" fill="#A78BFA"/><circle cx="112" cy="82" r="19" fill="none" stroke="#A78BFA" opacity=".28"/>
+  <text x="152" y="68" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700" fill="#A78BFA">2026 — NOW</text>
+  <text x="152" y="94" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="20" font-weight="800" fill="#F5F7FA">Research Assistant</text>
+  <text x="540" y="94" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="17" font-weight="650" fill="#F5F7FA">Macquarie University</text>
+  <text x="820" y="94" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#9EB2C7">RNA foundation models · reproducible ML</text><circle cx="112" cy="162" r="10" fill="#35D7FF"/><circle cx="112" cy="162" r="19" fill="none" stroke="#35D7FF" opacity=".28"/>
+  <text x="152" y="148" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700" fill="#35D7FF">2026 — NOW</text>
+  <text x="152" y="174" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="20" font-weight="800" fill="#F5F7FA">Technical Contractor</text>
+  <text x="540" y="174" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="17" font-weight="650" fill="#F5F7FA">Agile HR Analytics</text>
+  <text x="820" y="174" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#9EB2C7">testing · analytics · Azure delivery</text><circle cx="112" cy="242" r="10" fill="#43D9AD"/><circle cx="112" cy="242" r="19" fill="none" stroke="#43D9AD" opacity=".28"/>
+  <text x="152" y="228" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700" fill="#43D9AD">2024 — 2026</text>
+  <text x="152" y="254" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="20" font-weight="800" fill="#F5F7FA">Data Scientist</text>
+  <text x="540" y="254" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="17" font-weight="650" fill="#F5F7FA">AVITEC</text>
+  <text x="820" y="254" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#9EB2C7">Python ETL · Power BI · operational analytics</text><circle cx="112" cy="322" r="10" fill="#F6C85F"/><circle cx="112" cy="322" r="19" fill="none" stroke="#F6C85F" opacity=".28"/>
+  <text x="152" y="308" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="700" fill="#F6C85F">2023 — 2024</text>
+  <text x="152" y="334" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="20" font-weight="800" fill="#F5F7FA">Backend Developer</text>
+  <text x="540" y="334" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="17" font-weight="650" fill="#F5F7FA">Caspco</text>
+  <text x="820" y="334" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#9EB2C7">Java services · enterprise workflows</text>
+</svg>
