@@ -214,6 +214,17 @@ I’m open to thoughtful collaboration in biomedical AI, research software, mach
 </p>
 
 <p align="center"><code>git log --human: careful claims · useful systems · curiosity with a test suite</code></p>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/native-github-bridge-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/native-github-bridge-light.svg">
+  <img
+    src="assets/native-github-bridge-light.svg"
+    width="100%"
+    alt="Continue to selected repositories and public GitHub activity">
+</picture>
+
 
 <!--
   Easter egg / source-code note:
