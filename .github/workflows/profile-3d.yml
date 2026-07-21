@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v6.0.2
 
       - name: Generate public contribution visual
-        uses: yoshi389111/github-profile-3d-contrib@v0.9.2
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
